@@ -8,5 +8,5 @@ public class Hello {
 
 }
 
-##for execution javac Hello.java & java Hello
+// for execution javac Hello.java & java Hello
 
